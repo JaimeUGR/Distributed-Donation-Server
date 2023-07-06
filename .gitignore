@@ -1,0 +1,9 @@
+.idea/
+
+Ejemplos/
+
+out/
+!out/compilar.sh
+!out/servidor.sh
+!out/cliente.sh
+!out/server.policy
