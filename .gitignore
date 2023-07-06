@@ -2,7 +2,8 @@
 
 Ejemplos/
 
-out/
+out/*
+
 !out/compilar.sh
 !out/servidor.sh
 !out/cliente.sh
